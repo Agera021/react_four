@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_four/static/css/main.e88b7ab9.css",
+    "main.js": "/react_four/static/js/main.99835b0d.js",
+    "static/js/787.1a5b0c52.chunk.js": "/react_four/static/js/787.1a5b0c52.chunk.js",
+    "static/media/1234.jpg": "/react_four/static/media/1234.ae5eab93d3cd67bdb7fe.jpg",
+    "static/media/m1000rr.webp": "/react_four/static/media/m1000rr.005c1c7d52c26083c504.webp",
+    "static/media/321.jpg": "/react_four/static/media/321.77a9778ce36faa7dc4db.jpg",
+    "static/media/bmw.png": "/react_four/static/media/bmw.bd3d0c0801391785cc2f.png",
+    "index.html": "/react_four/index.html",
+    "static/media/check.svg": "/react_four/static/media/check.08b1465f8b01df541f37beabf62c5b41.svg",
+    "main.e88b7ab9.css.map": "/react_four/static/css/main.e88b7ab9.css.map",
+    "main.99835b0d.js.map": "/react_four/static/js/main.99835b0d.js.map",
+    "787.1a5b0c52.chunk.js.map": "/react_four/static/js/787.1a5b0c52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88b7ab9.css",
+    "static/js/main.99835b0d.js"
+  ]
+}
