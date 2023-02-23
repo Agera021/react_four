@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  .post {
+    width: 800px;
+    height: 500px;
+    background-color: rgb(124, 124, 124);
+  }
+  
+  .header {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  .photo {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 0;
+  }
+  
+  .information {
+    display: flex;
+    width: 400px;
+  }
+  .information li {
+    list-style: none;
+  }
+  .fullName {
+    color: azure;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .nickName {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  .post-text{
+    display: flex;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    height: 40px;
+    width: 70%;
+    margin-left: 15px;
+    color: azure;
+  
+  }
+  
+  .post-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%;
+    max-width: 100%;
+  }
+
+  .footer{
+    width: 600px;
+    height: 40px;
+    margin: 0 auto;
+  }
+  .likes-info {
+    display: flex;
+    width: 500px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .message-box {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+  }
+  .post-svg{
+    margin-left: 2px;
+    width: 18px;
+    height: 18px;
+  }
+  .post-information{
+    margin-left: 7px;
+    color: rgb(255, 255, 255);
+  }
+  .grid-container {
+    height: 1000px;
+    width: 1000px;
+    display: grid;
+    text-align: center;
+  }
+  .h1-photos{
+    text-align: center;
+    
+  }
+  .photos {
+    max-width: 1250px;
+    text-align: center;
+    max-height: 1250px;
+    margin-left: 50px;
+    }
